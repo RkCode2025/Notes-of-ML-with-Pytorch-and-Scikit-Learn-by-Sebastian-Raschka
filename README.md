@@ -9,3 +9,4 @@ Install required packages:
 
 ```bash
 pip install numpy pandas matplotlib seaborn scikit-learn torch torchvision
+```
